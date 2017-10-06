@@ -1,0 +1,28 @@
+body{
+	text-align: center;
+	font-family: 'Shadows Into Light', cursive;
+
+}
+.Cuadrado-color{
+	background-color: #9F6FD9;
+	padding-bottom: 20px;
+}
+
+p{
+	font-family: 'Raleway', cursive;
+	padding-bottom: 20px;
+}
+
+.logo{
+	width: 200px
+}
+
+img{
+	width: 800px;
+	padding-bottom: 50px;
+
+}
+
+.enlaces{
+	border-top: 1px dotted grey; 
+}
